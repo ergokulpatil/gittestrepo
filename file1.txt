@@ -1,2 +1,3 @@
 This is the first file in git for the gittestrepo
 The second line to check the add and commit command in one line like git commit -am "Add and commit in one line"
+The third line to compare with file3
